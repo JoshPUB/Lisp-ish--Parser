@@ -1,4 +1,5 @@
 # Lisp-ish--Parser
+## For now it is reccomended you view the RAW form of this file.
 Another Project from CSE465 at Miami. Implemented a parser Lisp(ish) in CShapr.
 lispish.exe , a parser for a simple LISP-like language. 
 Reads a LISP expression and prints the parse tree.
